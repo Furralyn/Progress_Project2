@@ -1,2 +1,2 @@
-# Progress_Project2
-Added interactive element
+# JSPlatformer
+JS Platformer for DIG 3480C
